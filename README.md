@@ -11,6 +11,7 @@ Business Logic & Algorithms: Designing modular code to solve real-world problems
 AI Training Readiness: Proficiency in writing, debugging, and explaining Python code, making me an ideal candidate for AI model evaluationand technical training.
 📂 Featured Projects (Jupyter Notebooks)
 📊 Financial Automation:final_tax_calculator.ipynb
+https://mail.google.com/mail/u/0?ui=2&ik=694206aeb2&attid=0.1&permmsgid=msg-f:1861960994786588933&th=19d703a8dfe33905&view=att&disp=safe&realattid=f_mnqwj2ug0&zw
 The Problem: Manual tax liability calculations are time-consuming and prone to human error.
 The Solution: Developed a robust script that automates complex logic and ensures 100% mathematical accuracy.
 📦 Inventory Intelligence:inventory_logic.ipynb
