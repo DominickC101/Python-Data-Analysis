@@ -12,13 +12,13 @@ AI Training Readiness: Proficiency in writing, debugging, and explaining Python 
 📂 Featured Projects (Jupyter Notebooks)
 
 <img width="740" height="755" alt="Screenshot 2026-04-08 10 11 12 PM (1)" src="https://github.com/user-attachments/assets/58111eac-5358-4b8f-81b0-a2fcaac1a343" />
-📊 Financial Automation:final_tax_calculator.ipynb
+📊 Financial Automated_Financial_Reporting_Tool.ipynb
 The Problem: Manual tax liability calculations are time-consuming and prone to human error.
 The Solution: Developed a robust script that automates complex logic and ensures 100% mathematical accuracy.
-📦 Inventory Intelligence:inventory_logic.ipynb
+📦 Inventory Inventory_Intelligence_System.ipynb
 The Problem: Poor inventory tracking leads to stockouts and lost revenue.
 The Solution: Created a dynamic system to track assets in real-time and provide automated status reports.
-🔎 Pattern & Security Analysis:suspicious_texts.ipynb
+🔎 Pattern & Security Data_Integrity_and_pattern-Analysis.ipynb
 The Problem: Sifting through thousands of data logs for anomalies is impossible to do manually.
 The Solution: Implemented automated pattern recognition to flag suspicious data entries instantly.
 🧮 Algorithmic Solutions: A collection of 20+ notebooks solving complex computational problems from verified edX and Udemy curricula.
