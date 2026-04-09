@@ -23,6 +23,6 @@ The Problem: Sifting through thousands of data logs for anomalies is impossible 
 The Solution: Implemented automated pattern recognition to flag suspicious data entries instantly.
 🧮 Algorithmic Solutions: A collection of 20+ notebooks solving complex computational problems from verified edX and Udemy curricula.
 📬 Contact & Hiring Info :
-Email: Dchaison22@gmail.com
+Email: Dominicksc101@gmail.com
 Portfolio: github.com
 I am actively seeking remote opportunities in AI Training, Automation, or Data Analysis. Please feel free to explore the project files above to see my logic and code structure in action.
