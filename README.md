@@ -10,6 +10,7 @@ Excel Automation: Developing scripts to bridge Python logic with Excel spreadshe
 Business Logic & Algorithms: Designing modular code to solve real-world problems, from tax liability calculators to inventory management systems.
 AI Training Readiness: Proficiency in writing, debugging, and explaining Python code, making me an ideal candidate for AI model evaluationand technical training.
 📂 Featured Projects (Jupyter Notebooks)
+
 <img width="740" height="755" alt="Screenshot 2026-04-08 10 11 12 PM (1)" src="https://github.com/user-attachments/assets/58111eac-5358-4b8f-81b0-a2fcaac1a343" />
 📊 Financial Automation:final_tax_calculator.ipynb
 The Problem: Manual tax liability calculations are time-consuming and prone to human error.
