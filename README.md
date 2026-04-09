@@ -10,11 +10,16 @@ Excel Automation: Developing scripts to bridge Python logic with Excel spreadshe
 Business Logic & Algorithms: Designing modular code to solve real-world problems, from tax liability calculators to inventory management systems.
 AI Training Readiness: Proficiency in writing, debugging, and explaining Python code, making me an ideal candidate for AI model evaluationand technical training.
 📂 Featured Projects (Jupyter Notebooks)
-📊 Financial Automation:final_tax_calculator.ipynb – A robust tool for automated tax liability calculations and financial reporting.
-📦 Inventory Intelligence:inventory_logic.ipynb – A dynamic system for tracking assets and optimizing stock levels through automated logic.
-🧾 Data Table Generation: Demonstrated ability to clean, sort, and export complex data into professional formats for business use.
+📊 Financial Automation:final_tax_calculator.ipynb
+The Problem: Manual tax liability calculations are time-consuming and prone to human error.
+The Solution: Developed a robust script that automates complex logic and ensures 100% mathematical accuracy.
+📦 Inventory Intelligence:inventory_logic.ipynb
+The Problem: Poor inventory tracking leads to stockouts and lost revenue.
+The Solution: Created a dynamic system to track assets in real-time and provide automated status reports.
+🔎 Pattern & Security Analysis:suspicious_texts.ipynb
+The Problem: Sifting through thousands of data logs for anomalies is impossible to do manually.
+The Solution: Implemented automated pattern recognition to flag suspicious data entries instantly.
 🧮 Algorithmic Solutions: A collection of 20+ notebooks solving complex computational problems from verified edX and Udemy curricula.
-
 📬 Contact & Hiring Info :
 Email: Dchaison22@gmail.com
 Portfolio: github.com
